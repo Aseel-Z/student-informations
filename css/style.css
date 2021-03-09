@@ -1,0 +1,63 @@
+
+
+body {
+    width: fit-content;
+    background-image: url("./thumbnail.jpg");
+    /* background-image: url('https://alqudscollege-my.sharepoint.com/personal/advtech_ltuc_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadvtech%5Fltuc%5Fcom%2FDocuments%2FAcademia%2FCourses%2FCode%20Fellows%20Courses%2FEntrance%20Exam%2F301%20Entrance%20Exam%2F201d14%2C201d15%26201d16%2Fexam%20demo%2Emp4&parent=%2Fpersonal%2Fadvtech%5Fltuc%5Fcom%2FDocuments%2FAcademia%2FCourses%2FCode%20Fellows%20Courses%2FEntrance%20Exam%2F301%20Entrance%20Exam%2F201d14%2C201d15%26201d16&originalPath=aHR0cHM6Ly9hbHF1ZHNjb2xsZWdlLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2FkdnRlY2hfbHR1Y19jb20vRVl2eXl6YTJLQk5KczRUMjcwZnZUV2tCOHVpWV9SUldrMjRnUHIwVGtfYThwdz9ydGltZT10TWF0ZDlmaTJFZw'); */
+width: 2000px;
+max-height: 1000px;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+header {
+ width: 2200px;
+ height: 100px;
+ background-color: rgba(96, 96, 96,0.6);
+opacity:50%;
+}
+
+nav {
+   color: #eee;
+   font-weight: bolder;
+   margin: 20px 0px 20px 0px;
+}
+
+nav ul {
+    float: left;
+}
+#list1 {
+    margin: 40px 300px 40px 900px ;
+}
+
+#list2 {
+    margin: 40px 650px 40px 10px ;
+}
+
+#list1 li {
+text-align: center;
+
+}
+
+#list2 li {
+    text-align: center; 
+    float: left;
+    margin: 0px 20px 0px 20px ;
+}
+
+#sec1 {
+    margin: 20px 0px 20px 0px;
+    color: #eee;
+
+}
+#sec1 form {
+float: left;
+background:rgba(96, 96, 96,0.6);
+opacity:50%;
+}
+
+#sec2 table {
+    float: right;
+    border: white;
+    border-style: solid;
+}
